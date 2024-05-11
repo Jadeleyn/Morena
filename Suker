@@ -90,10 +90,14 @@ https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
 #EXTINF:-1 tvg-id="I444.61776.zap2it.com" tvg-name="COL | Pasiones" tvg-logo="http://lonewolftvpr.com/logos/pasiones.png" group-title="Colombia",COL | Pasiones
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/305
 
-#EXTINF:-1 tvg-id="winsports.co" tvg-name="COL | Win Sports" tvg-logo="http://lonewolftvpr.com/logos/winsports.png" group-title="Colombia",COL | Win Sports
+
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="COL | Win Sports +" tvg-logo="https://i.ibb.co/ccw87mx/winp.png" group-title="Colombia",COL | WinMas
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1417
+
+#EXTINF:-1,COL : Win Sports
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/297
 
-#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="COL | Win Sports +" tvg-logo="https://i.ibb.co/ccw87mx/winp.png" group-title="Colombia",COL | Win Sports +
+#EXTINF:-1,COL : Win Sports +
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1417
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | TRO" tvg-logo="" group-title="Colombia",COL | TRO
@@ -112,5 +116,4 @@ http://181.78.22.251:8090/play/a029/index.m3u8
 
 #EXTINF:-1,COL: CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-
 
