@@ -27,7 +27,7 @@ http://bigline.club:8080/Allgood/m7LkpXsgqbEN/2250
 http://bigline.club:8080/Allgood/m7LkpXsgqbEN/38677
 
 
-#EXTINF:-1 tvg-id="" tvg-name="COL | Seal Colombia" tvg-logo="" group-title="Colombia",COL | Señal Colombia
+#EXTINF:-1 tvg-id="" tvg-name="COL | Señal Colombia" tvg-logo="" group-title="Colombia",COL | Señal Colombia
 http://bigline.club:8080/Allgood/m7LkpXsgqbEN/695
 
 
@@ -43,14 +43,23 @@ http://190.60.36.101:8000/play/a029
 http://947263047110813334.napgoto413.xyz:80/play/Rafa40119/GDBFY823742/813334.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="COL | Señal Colombia" tvg-logo="" group-title="Colombia",COL | Señal Colombia
-http://947263047110813336.napgoto413.xyz:80/play/Rafa40119/GDBFY823742/813336.ts
+#EXTINF:-1 tvg-id="" tvg-name="COL | Comedia Central" tvg-logo="" group-title="Colombia",COL | Coedia Central
+http://190.61.61.154:9000/play/a06v
 
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | Canal Estrellas" tvg-logo="" group-title="Colombia",COL | Canal Estrellas
+http://190.61.43.121:45000/play/a06h
+
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | LA KALLE" tvg-logo="" group-title="Colombia",COL | LA KALLE
+http://201.184.160.154:4849/play/CH152
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | Telecafe" tvg-logo="" group-title="Colombia",COL | Telecafe
 http://947263047110813340.napgoto413.xyz:80/play/Rafa40119/GDBFY823742/813340.ts
 
 
+#EXTINF:-1 tvg-id="" tvg-name="COL | Telemundo" tvg-logo="" group-title="Colombia",COL | Telemundo
+http://190.61.43.123:45000/play/a049
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | Telepacifico" tvg-logo="" group-title="Colombia",COL | Telepacifico
 http://947263047110813342.napgoto413.xyz:80/play/Rafa40119/GDBFY823742/813342.ts
@@ -67,24 +76,27 @@ http://947263047110813316.napgoto413.xyz:80/play/Rafa40119/GDBFY823742/813316.ts
 #EXTINF:-1 tvg-id="" tvg-name="COL | WinMas" tvg-logo="" group-title="Colombia",COL | WinMas
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1417
 
-#EXTINF:-1 tvg-id="" tvg-name="COL | Win Sports" tvg-logo="" group-title="Colombia",COL | Win Sports
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/297Ç
+
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | Win Sports" tvg-logo="" group-title="Colombia",COL | Win Sports +
+http://200.59.188.3:8000/play/a00n
+
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | Win Sports +" tvg-logo="" group-title="Colombia",COL | Win Sports +
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1417
 
 #EXTINF:-1 tvg-id="I444.61776.zap2it.com" tvg-name="COL | Pasiones" tvg-logo="http://lonewolftvpr.com/logos/pasiones.png" group-title="Colombia",COL | Pasiones
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/305
+http://201.184.160.154:4849/play/CH111
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | TRO" tvg-logo="" group-title="Colombia",COL | TRO
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1716
 
-#EXTINF:-1 tvg-id="" tvg-name="COL | Discovery ID" tvg-logo="" group-title="Colombia",COL | Discovery ID
+#EXTINF:-1 tvg-id="" tvg-name="COL | ID Discovery" tvg-logo="" group-title="Colombia",COL | Discovery ID
 http://190.60.36.101:8000/play/a01k
 
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | CNN Español" tvg-logo="" group-title="Colombia",COL | CNN Español
-http://947263047110776642.napgoto413.xyz:80/play/Rafa40119/GDBFY823742/776642.ts
+http://201.184.160.154:4849/play/CH101
 
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | CNN Chile" tvg-logo="" group-title="Colombia",COL | CNN Chile
