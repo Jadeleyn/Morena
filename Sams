@@ -10,20 +10,33 @@ http://947263047110813316.napgoto413.xyz:80/play/Rafa40119/GDBFY823742/813316.ts
 #EXTINF:-1 tvg-id="" tvg-name="COL | Caracol" tvg-logo="" group-title="Colombia",COL | Caracol
 http://200.59.188.3:8000/play/a02y
 
+#EXTINF:-1 tvg-id="" tvg-name="COL | Canal del Congreso" tvg-logo="" group-title="Colombia",COL | Canal del 
 
-#EXTINF:-1 tvg-id="" tvg-name="COL | Canal del Congreso" tvg-logo="" group-title="Colombia",COL | Canal del Congreso
+Congreso
 http://190.60.36.101:8000/play/a02a
 
-#EXTINF:-1 tvg-id="" tvg-name="COL | Canal Institucional" tvg-logo="" group-title="Colombia",COL | Canal Institucional
+#EXTINF:-1 tvg-id="" tvg-name="COL | Canal Institucional" tvg-logo="" group-title="Colombia",COL | Canal 
+
+Institucional
 http://190.60.36.101:8000/play/a029
 
-#EXTINF:-1 tvg-id="" tvg-name="COL | Canal De Las Estrellas" tvg-logo="" group-title="Colombia",COL | Canal De Las Estrellas
+#EXTINF:-1 tvg-id="" tvg-name="COL | Canal De Las Estrellas" tvg-logo="" group-title="Colombia",COL | Canal 
+
+De Las Estrellas
 http://190.61.43.121:45000/play/a06h
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | Canal 13" tvg-logo="" group-title="Colombia",COL | Canal 13
+http://201.184.160.154:4849/play/CH119
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | Canal Capital" tvg-logo="" group-title="Colombia",COL | Canal Capital
+http://190.61.43.121:45000/play/a03g
   
 #EXTINF:-1 tvg-id="" tvg-name="COL | CityTv" tvg-logo="" group-title="Colombia",COL | CityTv
 http://bigline.club:8080/Allgood/m7LkpXsgqbEN/38677
 
-#EXTINF:-1 tvg-id="" tvg-name="COL | Comedia Central" tvg-logo="" group-title="Colombia",COL | Comedia Central
+#EXTINF:-1 tvg-id="" tvg-name="COL | Comedia Central" tvg-logo="" group-title="Colombia",COL | Comedia 
+
+Central
 http://190.61.61.154:9000/play/a06v
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | CNN Español" tvg-logo="" group-title="Colombia",COL | CNN Español
