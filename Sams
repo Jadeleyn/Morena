@@ -7,10 +7,14 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1702
 #EXTINF:-1 tvg-id="" tvg-name="COL | Cable Noticias" tvg-logo="" group-title="Colombia",COL | Cable Noticias
 http://947263047110813316.napgoto413.xyz:80/play/Rafa40119/GDBFY823742/813316.ts
 
-#EXTINF:-1 tvg-id="I417.39719.zap2it.com" tvg-name="COL | Caracol" tvg-logo="http://lonewolftvpr.com/logos/caracol.png" group-title="Colombia",COL | Caracol
+#EXTINF:-1 tvg-id="I417.39719.zap2it.com" tvg-name="COL | Caracol" tvg-logo="http://lonewolftvpr.com/logos/caracol.png" 
+
+group-title="Colombia",COL | Caracol
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/284
 
-#EXTINF:-1 tvg-id="caracolinternacional.co" tvg-name="COL | Caracol Int" tvg-logo="http://lonewolftvpr.com/logos/caracol.png" group-title="Colombia",COL | Caracol Int
+#EXTINF:-1 tvg-id="caracolinternacional.co" tvg-name="COL | Caracol Int" tvg-logo="http://lonewolftvpr.com/logos/caracol.png" 
+
+group-title="Colombia",COL | Caracol Int
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1243
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | Canal del Congreso" tvg-logo="" group-title="Colombia",COL | Canal del Congreso
@@ -43,10 +47,14 @@ http://201.184.160.154:4849/play/CH152
 #EXTINF:-1 tvg-id="" tvg-name="COL | NTN 24" tvg-logo="" group-title="Colombia",COL | NTN 24
 http://947263047110813334.napgoto413.xyz:80/play/Rafa40119/GDBFY823742/813334.ts
 
-#EXTINF:-1 tvg-id="I444.61776.zap2it.com" tvg-name="COL | Pasiones" tvg-logo="http://lonewolftvpr.com/logos/pasiones.png" group-title="Colombia",COL | Pasiones
+#EXTINF:-1 tvg-id="I444.61776.zap2it.com" tvg-name="COL | Pasiones" tvg-logo="http://lonewolftvpr.com/logos/pasiones.png" 
+
+group-title="Colombia",COL | Pasiones
 http://201.184.160.154:4849/play/CH111
 
-#EXTINF:-1 tvg-id="rcnhd.co" tvg-name="COL | RCN" tvg-logo="http://lonewolftvpr.com/logos/rcn.png" group-title="Colombia",COL | RCN
+#EXTINF:-1 tvg-id="rcnhd.co" tvg-name="COL | RCN" tvg-logo="http://lonewolftvpr.com/logos/rcn.png" group-title="Colombia",COL 
+
+| RCN
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/302
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | RCN Noticias" tvg-logo="" group-title="Colombia",COL | RCN Noticias
@@ -61,8 +69,17 @@ http://bigline.club:8080/Allgood/m7LkpXsgqbEN/2250
 #EXTINF:-1 tvg-id="" tvg-name="COL | Señal Colombia" tvg-logo="" group-title="Colombia",COL | Señal Colombia
 http://bigline.club:8080/Allgood/m7LkpXsgqbEN/695
 
+#EXTINF:-1 tvg-id="" tvg-name="COL | Tv Agro" tvg-logo="" group-title="Colombia",COL | Tv Agro
+http://947263047110813344.napgoto413.xyz:80/play/Rafa40119/GDBFY823742/813344.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | Teleantioquia" tvg-logo="" group-title="Colombia",COL | Teleantioquia
+http://190.61.43.123:45000/play/a03i
+
 #EXTINF:-1 tvg-id="" tvg-name="COL | Telecafe" tvg-logo="" group-title="Colombia",COL | Telecafe
 http://947263047110813340.napgoto413.xyz:80/play/Rafa40119/GDBFY823742/813340.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | Telecaribe" tvg-logo="" group-title="Colombia",COL | Telecaribe
+http://190.61.43.123:45000/play/a03k
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | Telemundo" tvg-logo="" group-title="Colombia",COL | Telemundo
 http://190.61.43.123:45000/play/a049
@@ -70,8 +87,8 @@ http://190.61.43.123:45000/play/a049
 #EXTINF:-1 tvg-id="" tvg-name="COL | Telepacifico" tvg-logo="" group-title="Colombia",COL | Telepacifico
 http://947263047110813342.napgoto413.xyz:80/play/Rafa40119/GDBFY823742/813342.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="COL | Tv Agro" tvg-logo="" group-title="Colombia",COL | Tv Agro
-http://947263047110813344.napgoto413.xyz:80/play/Rafa40119/GDBFY823742/813344.ts
+#EXTINF:-1 tvg-id="" tvg-name="COL | TRO" tvg-logo="" group-title="Colombia",COL | TRO
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1716
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | WinMas" tvg-logo="" group-title="Colombia",COL | WinMas
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1417
@@ -81,6 +98,3 @@ http://200.59.188.3:8000/play/a00n
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | Win Sports +" tvg-logo="" group-title="Colombia",COL | Win Sports +
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1417
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | TRO" tvg-logo="" group-title="Colombia",COL | TRO
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1716
