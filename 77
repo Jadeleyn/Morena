@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1,Directv Sports
+http://pe.shortgod.com/temporal/play.php?id=20
+#EXTINF:-1,Directv Sports 2
+http://pe.shortgod.com/temporal/play.php?id=21
+#EXTINF:-1,Directv Sports Plus
+http://pe.shortgod.com/temporal/play.php?id=22
+#EXTINF:-1,Directv Sports Fight
+http://pe.shortgod.com/temporal/play.php?id=36
+
+#EXTINF:-1,MX: FOX SPORTS
+http://ky-iptv.com:80/RE4T3AR4/TRH5Y4T4/384888.ts
+#EXTINF:-1,MX: FOX SPORTS 2 FHD
+http://ky-iptv.com:80/RE4T3AR4/TRH5Y4T4/384891.ts
+#EXTINF:-1,MX: FOX SPORTS 3 FHD
+http://ky-iptv.com:80/RE4T3AR4/TRH5Y4T4/384892.ts
+
+#EXTINF:-1,ESPN 2 HD
+http://190.60.40.37:12500/play/a00m/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://190.60.40.37:12500/play/a00q/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://190.60.40.37:12500/play/a012/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://190.60.40.37:12500/play/a019/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.60.40.37:12500/play/a096/index.m3u8
+#EXTINF:-1,ESPN HD1
+http://190.60.40.37:12500/play/a0ba/index.m3u8
+
