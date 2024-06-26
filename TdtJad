@@ -95,8 +95,6 @@ http://190.60.40.37:12500/play/a019/index.m3u8
 http://190.60.40.37:12500/play/a096/index.m3u8
 #EXTINF:-1,ESPN HD1
 http://190.60.40.37:12500/play/a0ba/index.m3u8
-#EXTINF:-1,ESTRELLASHDDECO
-http://190.60.40.37:12500/play/ESTRELLASHDDECO/index.m3u8
 #EXTINF:-1,EWTN
 http://190.60.40.37:12500/play/a0ag/index.m3u8
 #EXTINF:-1,El Gourmet HD
@@ -259,8 +257,6 @@ http://190.60.40.37:12500/play/a01f/index.m3u8
 http://190.60.40.37:12500/play/a011/index.m3u8
 #EXTINF:-1,USA
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/31
-#EXTINF:-1,Via X
-http://190.211.250.102:8000/play/a00s
 #EXTINF:-1,VENUS
 http://190.60.40.37:12500/play/VENUS/index.m3u8
 #EXTINF:-1,WINMAS
@@ -271,7 +267,3 @@ http://200.59.188.3:8000/play/a00n
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1417
 #EXTINF:-1,Warner Channel HD
 http://190.60.40.37:12500/play/a00j/index.m3u8
-#EXTINF:-1,ZONA LATINA
-http://190.211.250.102:8000/play/a00b
-#EXTINF:-1,ZOOMOO
-http://190.211.250.102:8000/play/a00e
