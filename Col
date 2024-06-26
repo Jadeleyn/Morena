@@ -20,7 +20,7 @@ http://190.60.40.37:12500/play/CANALINFANTIL/index.m3u8
 #EXTINF:-1,CINEFAMILIAR
 http://190.60.40.37:12500/play/CINEFAMILIAR/index.m3u8
 #EXTINF:-1,CableNoticias
-http://190.60.40.37:12500/play/a07g/index.m3u8
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1,Canal 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1,Canal Capital
@@ -62,7 +62,7 @@ http://cdn1host.online:2999/luisantoniorodz@gmail.com/welcome/1720
 #EXTINF:-1,CNN Espanol
 http://190.60.40.37:12500/play/a01v/index.m3u8
 #EXTINF:-1,CNN Chile HD
-http://192.141.99.3:8000/play/a03v
+http://181.205.77.118:4849/play/CH102
 #EXTINF:-1, CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,Comedy Central HD
@@ -85,7 +85,15 @@ http://190.60.40.37:12500/play/a0ar/index.m3u8
 http://190.60.40.37:12500/play/a0bb/index.m3u8
 #EXTINF:-1,Disney Jr
 http://190.60.40.37:12500/play/a08r/index.m3u8
-#EXTINF:-1,DREAMWORK
+#EXTINF:-1,Directv Sports
+http://pe.shortgod.com/temporal/play.php?id=20
+#EXTINF:-1,Directv Sports 2
+http://pe.shortgod.com/temporal/play.php?id=21
+#EXTINF:-1,Directv Sports Plus
+http://pe.shortgod.com/temporal/play.php?id=22
+#EXTINF:-1,Directv Sports Fight
+http://pe.shortgod.com/temporal/play.php?id=36
+#EXTINF:-1,DREAMWORKS
 http://190.2.213.38:8000/play/a06r/index.m3u8
 #EXTINF:-1,E! HD
 http://190.60.40.37:12500/play/a01e/index.m3u8
