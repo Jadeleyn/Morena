@@ -91,6 +91,23 @@ http://xtv.ooo:8080/Guda786/Guda123/348102
 http://xtv.ooo:8080/Guda786/Guda123/348103
 #EXTINF:-1 tvg-id="" tvg-name="ARG: DirecTV Sports Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1837897a51d196c78caaecc039a49887.png" group-title="Argentina",ARG: DirecTV Sports Plus
 http://xtv.ooo:8080/Guda786/Guda123/348104
+#EXTINF:-1 tvg-id="" tvg-name="CL: CNN Chile" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7ef8939c6ae682d9ed89bfe7d59262c1.png" group-title="Chile",CL: CNN Chile
+http://xtv.ooo:8080/Guda786/Guda123/349084
+#EXTINF:-1 tvg-id="" tvg-name="CL: DirecTV Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8d8ebda231878a183e772f021b957259.png" group-title="Chile",CL: DirecTV Sports
+http://xtv.ooo:8080/Guda786/Guda123/349085
+#EXTINF:-1 tvg-id="" tvg-name="CL: DirecTV Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8ebf183191a5b574389ae0c03d980af1.png" group-title="Chile",CL: DirecTV Sports 2
+http://xtv.ooo:8080/Guda786/Guda123/349086
+#EXTINF:-1 tvg-id="" tvg-name="CL: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e11a3ef7190367204b911bcae386a644.png" group-title="Chile",CL: ESPN 2
+http://xtv.ooo:8080/Guda786/Guda123/349088
+#EXTINF:-1 tvg-id="" tvg-name="CO: DirecTV Sports Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/278e1ce03ed85607249a2a8d013f0f67.png" group-title="Colombia",CO: DirecTV Sports Plus
+http://xtv.ooo:8080/Guda786/Guda123/349235
+#EXTINF:-1 tvg-id="" tvg-name="EC: DirecTV Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/4e651280cec3e8ddd698e0346e1f0c89.png" group-title="Ecuador",EC: DirecTV Sports
+http://xtv.ooo:8080/Guda786/Guda123/349673
+#EXTINF:-1 tvg-id="" tvg-name="EC: DirecTV Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1bf210da223abb1c92d30691bb8195f9.png" group-title="Ecuador",EC: DirecTV Sports 2
+http://xtv.ooo:8080/Guda786/Guda123/349674
+#EXTINF:-1 tvg-id="" tvg-name="LA: DirecTV Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/be2180be71921c8ec968979aaeda69d5.png" group-title="Latino",LA: DirecTV Sports
+http://xtv.ooo:8080/Guda786/Guda123/351831
+
 #EXTINF:-1,DREAMWORKS
 http://190.2.213.38:8000/play/a06r/index.m3u8
 #EXTINF:-1,E! HD
