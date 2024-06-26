@@ -85,14 +85,12 @@ http://190.60.40.37:12500/play/a0ar/index.m3u8
 http://190.60.40.37:12500/play/a0bb/index.m3u8
 #EXTINF:-1,Disney Jr
 http://190.60.40.37:12500/play/a08r/index.m3u8
-#EXTINF:-1,Directv Sports
-http://pe.shortgod.com/temporal/play.php?id=20
-#EXTINF:-1,Directv Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DirecTV Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8dbe5b84ef7b00e4579e1b53426e4a13.png" group-title="Argentina",ARG: DirecTV Sports
 http://xtv.ooo:8080/Guda786/Guda123/348102
-#EXTINF:-1,Directv Sports Plus
-http://pe.shortgod.com/temporal/play.php?id=22
-#EXTINF:-1,Directv Sports Fight
-http://pe.shortgod.com/temporal/play.php?id=36
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DirecTV Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/17cb87788ff5c4d544aa70c39e6d707a.png" group-title="Argentina",ARG: DirecTV Sports 2
+http://xtv.ooo:8080/Guda786/Guda123/348103
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DirecTV Sports Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1837897a51d196c78caaecc039a49887.png" group-title="Argentina",ARG: DirecTV Sports Plus
+http://xtv.ooo:8080/Guda786/Guda123/348104
 #EXTINF:-1,DREAMWORKS
 http://190.2.213.38:8000/play/a06r/index.m3u8
 #EXTINF:-1,E! HD
