@@ -1,11 +1,49 @@
 #EXTM3U
+
 #EXTINF:-1,ARG: DIRECTV SPORTS VIP [LIVE DURING EVENTS ONLY] HD
 http://310826932193781931.tkop413.xyz:80/play/ja124424/T65bs4tG89s/781931.ts
 #EXTINF:-1,ARG: AR: DIRECTV SPORTS HD
 http://310826932193781932.tkop413.xyz:80/play/ja124424/T65bs4tG89s/781932.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG021:DIRECTV SPORTS" tvg-logo="" group-title="Argentina",ARG021:DIRECTV SPORTS
 http://mohdtv.com:8880/voby5236/59159316/49731
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA065:TSN-1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA065TSN-1.png" group-title="CA Sports",CA065:TSN-1 HD
+
+#EXTINF:-1 group-title="Bics DEPORTES",  direc tv sports (argentina)
+http://tv.proyectox.vip:8080/userfruto1/H2m3De4aMA/358817
+
+#EXTINF:-1,ESPN 2 HD
+http://190.60.40.37:12500/play/a00m/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://190.60.40.37:12500/play/a00q/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://190.60.40.37:12500/play/a012/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://190.60.40.37:12500/play/a019/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.60.40.37:12500/play/a096/index.m3u8
+#EXTINF:-1,ESPN HD1
+http://190.60.40.37:12500/play/a0ba/index.m3u8
+
+#EXTINF:-1,Fox Sports HD
+http://947263047110776674.napgoto413.xyz:80/play/Rafa40119/GDBFY823742/776674.ts
+#EXTINF:-1,Fox Sports
+http://cdn1host.online:2999/luisantoniorodz@gmail.com/welcome/92
+#EXTINF:-1,Fox Sports 2
+http://cdn1host.online:2999/luisantoniorodz@gmail.com/welcome/93
+#EXTINF:-1,Fox Sports 3
+http://cdn1host.online:2999/luisantoniorodz@gmail.com/welcome/100
+#EXTINF:-1,Fox Sports Premium
+http://cdn1host.online:2999/luisantoniorodz@gmail.com/welcome/992
+
+
+
+#EXTINF:-1 tvg-id="I400.11182.schedulesdirect.org" tvg-name="CA | TSN 1" tvg-logo="https://i.imgur.com/xbXCiNl.png" group-title="Canada",CA | TSN 1
+http://cdn1host.online:2999/KatTV1979/dZvQHfw5/1195
+#EXTINF:-1 tvg-id="I401.18990.schedulesdirect.org" tvg-name="CA | TSN 2" tvg-logo="https://i.imgur.com/mPS3Wyo.png" group-title="Canada",CA | TSN 2
+http://cdn1host.online:2999/KatTV1979/dZvQHfw5/175
+
+
+#EXTINF:-1,CA065:TSN-1 HD
 http://mohdtv.com:8880/voby5236/59159316/3004
 #EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA066:TSN-2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA066TSN-2.png" group-title="CA Sports",CA066:TSN-2 HD
 http://mohdtv.com:8880/voby5236/59159316/3003
@@ -15,3 +53,38 @@ http://mohdtv.com:8880/voby5236/59159316/3002
 http://mohdtv.com:8880/voby5236/59159316/3001
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA069:TSN-5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA069TSN-5.png" group-title="CA Sports",CA069:TSN-5 HD
 http://mohdtv.com:8880/voby5236/59159316/3000
+
+
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA: TSN 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1fba41bf57803049ca52a3131bf7b749.png" group-title="Canada ➾ Sports",CA: TSN 1
+http://xtv.ooo:8080/iptvuk44/44ukiptv/349014
+
+#EXTINF:-1 group-title="Bics DEPORTES", WIN SPORTS (colombia)
+http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", WIN SPORT+ (colombia)
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
+
+
+
+#EXTINF:-1 group-title="Bics DEPORTES",  FOX SPORTS  1 (México)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/36396
+#EXTINF:-1 group-title="Bics DEPORTES",  FOX SPORTS 2 (México)
+http://tilinki.com:25461/caqo5939/2g7xS/24
+#EXTINF:-1 group-title="Bics DEPORTES",  FOX SPORTS 3 (México)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/9538
+#EXTINF:-1 group-title="Bics DEPORTES",  ESPN SPORT 1 (México)
+https://sdmx.vip:443/belpley/sYqKZQrTZa/155472.ts
+
+#EXTINF:-1 group-title="Bics DEPORTES",TVC SPORTS 
+http://budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159097
+#EXTINF:-1 group-title="Bics DEPORTES", fox sport premiun (mexico)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/158454
+
+#EXTINF:-1 tvg-id="I256.37747.schedulesdirect.org" tvg-name="MX | ESPN 2" tvg-logo="https://i.imgur.com/Byz0yMS.png" group-title="Latinamerica",MX | ESPN 2
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1456
+#EXTINF:-1 tvg-id="I263.79042.schedulesdirect.org" tvg-name="MX | ESPN 3" tvg-logo="https://i.imgur.com/4sKgcKa.png" group-title="Latinamerica",MX | ESPN 3
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/91
+#EXTINF:-1 tvg-id="espnplushd.mx" tvg-name="MX | ESPN Plus" tvg-logo="https://i.imgur.com/JUou0fZ.png" group-title="Latinamerica",MX | ESPN Plus
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/90
+
+
+
