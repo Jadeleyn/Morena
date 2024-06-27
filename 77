@@ -14,6 +14,16 @@ http://ky-iptv.com:80/RE4T3AR4/TRH5Y4T4/384888.ts
 http://ky-iptv.com:80/RE4T3AR4/TRH5Y4T4/384891.ts
 #EXTINF:-1,MX: FOX SPORTS 3 FHD
 http://ky-iptv.com:80/RE4T3AR4/TRH5Y4T4/384892.ts
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA065:TSN-1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA065TSN-1.png" group-title="CA Sports",CA065:TSN-1 HD
+http://vo01.mohdtv.com:8880/ALLChannels3a5ff91f7cbd/41677245/3004
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA066:TSN-2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA066TSN-2.png" group-title="CA Sports",CA066:TSN-2 HD
+http://vo01.mohdtv.com:8880/ALLChannels3a5ff91f7cbd/41677245/3003
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA067:TSN-3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA067TSN-3.png" group-title="CA Sports",CA067:TSN-3 HD
+http://vo01.mohdtv.com:8880/ALLChannels3a5ff91f7cbd/41677245/3002
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA068:TSN-4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA068TSN-4.png" group-title="CA Sports",CA068:TSN-4 HD
+http://vo01.mohdtv.com:8880/ALLChannels3a5ff91f7cbd/41677245/3001
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA069:TSN-5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA069TSN-5.png" group-title="CA Sports",CA069:TSN-5 HD
+http://vo01.mohdtv.com:8880/ALLChannels3a5ff91f7cbd/41677245/3000
 
 #EXTINF:-1,ESPN 2 HD
 http://190.60.40.37:12500/play/a00m/index.m3u8
